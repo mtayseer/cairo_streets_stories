@@ -1,4 +1,3 @@
-cairo_streets_stories
-=====================
+# Cairo Streets & Stories
 
-Map of Cairo streets &amp; their stories
+Map of Cairo streets & their stories
