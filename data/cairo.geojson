@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "45th Street Theater", "TEL": "(212) 352-3101", "URL": "http:\/\/www.theatermania.com\/new-york\/theaters\/45th-street-theatre_2278\/", "ADDRESS1": "354 West 45th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ 31.990618, 30.759851 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "47th Street Theater", "TEL": "(800) 775-1617", "URL": "http:\/\/www.bestofoffbroadway.com\/theaters\/47streettheatre.html", "ADDRESS1": "304 West 47th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ 31.988106, 30.760471 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "59E59", "TEL": "(212) 753-5959", "URL": "http:\/\/www.59e59.org\/", "ADDRESS1": "59 East 59th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10022.0 }, "geometry": { "type": "Point", "coordinates": [ 31.970385, 30.763399 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Acorn Theater", "TEL": "(212) 279-4200", "URL": "http:\/\/www.theatrerow.org\/theacorn.htm", "ADDRESS1": "410 West 42nd Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ 31.993324, 30.758537 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Al Hirschfeld Theater", "TEL": "(212) 239-6200", "URL": "http:\/\/www.newyorkcitytheatre.com\/theaters\/alhirschfeldtheater\/theater.php", "ADDRESS1": "302 W 45th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ 31.989214, 30.759261 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "Ambassador Theatre", "TEL": "(800) 432-7565", "URL": "http:\/\/www.shubertorganization.com\/theatres\/ambassador.asp", "ADDRESS1": "219 West 49th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ 31.985001, 30.761259 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NAME": "American Airlines Theatre", "TEL": "(212) 719-9393", "URL": "http:\/\/www.newyorkcitytheatre.com\/theaters\/americanairlinestheater\/theater.php", "ADDRESS1": "227 W 42nd Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ 31.988049, 30.756779 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "NAME": "Apollo Theater", "TEL": "(212) 531-5300", "URL": "http:\/\/www.apollotheater.org\/", "ADDRESS1": "253 West 125th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10027.0 }, "geometry": { "type": "Point", "coordinates": [ 31.95004, 30.810037 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "NAME": "Arclight Theatre", "TEL": "(212) 595-0355", "URL": "http:\/\/www.nytheatre.com\/nytheatre\/arclight.htm", "ADDRESS1": "152 W 71st St", "ADDRES2": null, "CITY": "New York", "ZIP": 10023.0 }, "geometry": { "type": "Point", "coordinates": [ 31.98121, 30.77712 ] } }
+]
+}
